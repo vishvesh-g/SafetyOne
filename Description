@@ -1,0 +1,3 @@
+This is a mobile application for women's safety.
+This app on the first run asks to pick 5 trusted contacts. Its main feature is a timer which is by default set to 10 mins which needs to be reset before it times out as if it goes off it sends an alert to all trusted contacts with your precise location. this can be used in situations where one thinks that he/she might not be safe, so stating the timer will be helpful as if something bad happens and one is not able to reset the timer, alerts will be sent automatically.
+It also has a feature where you just need to enter your destination and it shows you the safest path based on the criminal activities reports on various available paths and areas that path goes through.
